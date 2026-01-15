@@ -1,4 +1,4 @@
-# Traducteur Jargon (Grandmother GPT)
+# Grandmother GPT
 
 A Next.js application designed to translate complex technical developer jargon into simple, everyday language that anyone—even your grandmother—can understand. Powered by LangChain and OpenAI.
 
